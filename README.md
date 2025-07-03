@@ -1,4 +1,5 @@
 🧩 Task 7: Creating and Using Views
+
 This task introduces the concept of SQL Views, which are virtual tables based on SELECT queries. Views make it easier to manage and reuse complex queries by giving them simple, meaningful names.
 
 🎯 Objective
