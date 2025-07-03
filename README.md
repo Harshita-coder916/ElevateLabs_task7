@@ -13,18 +13,18 @@
 
 🗂 Views Created
 
- CustomerOrderSummary
+ CustomerOrderSummary-
 A view that summarizes customer order data including total orders and total amount spent.
 
- ProductSalesSummary
+ ProductSalesSummary-
 Shows each product’s total units sold and total revenue generated.
 
- PendingPayments
+ PendingPayments-
 Displays all orders where payment is still pending.
 
- HighValueCustomers
+ HighValueCustomers-
 Lists customers who have spent more than ₹5000 total.
 
- OrderDetailsView
+ OrderDetailsView-
 Provides full order information, including customer, product, quantity, and payment status.
 
